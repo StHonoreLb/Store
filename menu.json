@@ -6,13 +6,32 @@
       "items": [],
       "subcategories": [
         {
+          "name": "Savory",
+          "items": [
+            {
+              "id": 6,
+              "name": "Croque Monsieur",
+              "description": "Ham & melted cheese on toasted bread",
+              "price": "7.00",
+              "photo_url": "/media/menu/6e4ea8e0d4144e2cbde8d458892c8c3e.webp"
+            },
+            {
+              "id": 7,
+              "name": "Salad",
+              "description": null,
+              "price": "8.00",
+              "photo_url": "/media/menu/053c9677fcd8408786d21465ae6e4243.webp"
+            }
+          ]
+        },
+        {
           "name": "Sweet",
           "items": [
             {
               "id": 1,
               "name": "Tiramisu",
               "description": "Our special recipe",
-              "price": "5.00",
+              "price": "5.55",
               "photo_url": "/media/menu/64fa435dc6a94aedafd4b6d04a759c15.webp"
             },
             {
@@ -42,25 +61,6 @@
               "description": "Slice of the day",
               "price": "4.50",
               "photo_url": "/media/menu/2a9f5f593e7a4aa39c122ec9afbcd922.webp"
-            }
-          ]
-        },
-        {
-          "name": "Savory",
-          "items": [
-            {
-              "id": 6,
-              "name": "Croque Monsieur",
-              "description": "Ham & melted cheese on toasted bread",
-              "price": "7.00",
-              "photo_url": "/media/menu/6e4ea8e0d4144e2cbde8d458892c8c3e.webp"
-            },
-            {
-              "id": 7,
-              "name": "Salad",
-              "description": null,
-              "price": "8.00",
-              "photo_url": "/media/menu/053c9677fcd8408786d21465ae6e4243.webp"
             }
           ]
         }
@@ -97,32 +97,6 @@
           ]
         },
         {
-          "name": "Coffee",
-          "items": [
-            {
-              "id": 11,
-              "name": "American Coffee",
-              "description": null,
-              "price": "3.00",
-              "photo_url": "/media/menu/63a4a6bf0f7e4769ae625afe067dbdfc.webp"
-            },
-            {
-              "id": 12,
-              "name": "Espresso",
-              "description": "Single or double shot",
-              "price": "2.50",
-              "photo_url": "/media/menu/1a6a0285d8424612aa64d037dc9586aa.webp"
-            },
-            {
-              "id": 13,
-              "name": "Cappuccino",
-              "description": null,
-              "price": "4.00",
-              "photo_url": "/media/menu/c645902025804d918e5d1aec61ac58ff.webp"
-            }
-          ]
-        },
-        {
           "name": "Hot Drinks",
           "items": [
             {
@@ -145,6 +119,32 @@
               "description": null,
               "price": "3.00",
               "photo_url": "/media/menu/d5072a56ff5448a199b808aa20d500d5.webp"
+            }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "items": [
+            {
+              "id": 11,
+              "name": "American Coffee",
+              "description": null,
+              "price": "3.00",
+              "photo_url": "/media/menu/63a4a6bf0f7e4769ae625afe067dbdfc.webp"
+            },
+            {
+              "id": 12,
+              "name": "Espresso",
+              "description": "Single or double shot",
+              "price": "2.50",
+              "photo_url": "/media/menu/1a6a0285d8424612aa64d037dc9586aa.webp"
+            },
+            {
+              "id": 13,
+              "name": "Cappuccino",
+              "description": null,
+              "price": "4.00",
+              "photo_url": "/media/menu/c645902025804d918e5d1aec61ac58ff.webp"
             }
           ]
         },
