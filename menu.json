@@ -1,0 +1,166 @@
+{
+  "currency": "USD",
+  "categories": [
+    {
+      "name": "Food",
+      "items": [],
+      "subcategories": [
+        {
+          "name": "Sweet",
+          "items": [
+            {
+              "id": 1,
+              "name": "Tiramisu",
+              "description": "Our special recipe",
+              "price": "5.00",
+              "photo_url": "/media/menu/64fa435dc6a94aedafd4b6d04a759c15.webp"
+            },
+            {
+              "id": 2,
+              "name": "Lazy Cake",
+              "description": null,
+              "price": "3.50",
+              "photo_url": "/media/menu/20ae8bdb386c426388b529ef1b67a4ee.webp"
+            },
+            {
+              "id": 3,
+              "name": "Brownie",
+              "description": null,
+              "price": "4.00",
+              "photo_url": "/media/menu/12b20fbf271b4fc1af63f010eba443ed.webp"
+            },
+            {
+              "id": 4,
+              "name": "Cookie",
+              "description": "Warm chocolate-chip cookie",
+              "price": "2.50",
+              "photo_url": "/media/menu/d0524dd716d948328c516af2305ee955.webp"
+            },
+            {
+              "id": 5,
+              "name": "Cake",
+              "description": "Slice of the day",
+              "price": "4.50",
+              "photo_url": "/media/menu/2a9f5f593e7a4aa39c122ec9afbcd922.webp"
+            }
+          ]
+        },
+        {
+          "name": "Savory",
+          "items": [
+            {
+              "id": 6,
+              "name": "Croque Monsieur",
+              "description": "Ham & melted cheese on toasted bread",
+              "price": "7.00",
+              "photo_url": "/media/menu/6e4ea8e0d4144e2cbde8d458892c8c3e.webp"
+            },
+            {
+              "id": 7,
+              "name": "Salad",
+              "description": null,
+              "price": "8.00",
+              "photo_url": "/media/menu/053c9677fcd8408786d21465ae6e4243.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [],
+      "subcategories": [
+        {
+          "name": "Cold Drinks",
+          "items": [
+            {
+              "id": 8,
+              "name": "Milkshakes",
+              "description": "Chocolate, vanilla, or strawberry",
+              "price": "5.00",
+              "photo_url": "/media/menu/4f16a8378ec84937b881fedf6e7764cc.webp"
+            },
+            {
+              "id": 9,
+              "name": "Orange Juice",
+              "description": "Freshly squeezed",
+              "price": "4.00",
+              "photo_url": "/media/menu/f0597f3ded674c868f08662f46959ef5.webp"
+            },
+            {
+              "id": 10,
+              "name": "Lemonade",
+              "description": "Freshly squeezed",
+              "price": "3.50",
+              "photo_url": "/media/menu/b972e4ed32b146b8b11053d7146dab64.webp"
+            }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "items": [
+            {
+              "id": 11,
+              "name": "American Coffee",
+              "description": null,
+              "price": "3.00",
+              "photo_url": "/media/menu/63a4a6bf0f7e4769ae625afe067dbdfc.webp"
+            },
+            {
+              "id": 12,
+              "name": "Espresso",
+              "description": "Single or double shot",
+              "price": "2.50",
+              "photo_url": "/media/menu/1a6a0285d8424612aa64d037dc9586aa.webp"
+            },
+            {
+              "id": 13,
+              "name": "Cappuccino",
+              "description": null,
+              "price": "4.00",
+              "photo_url": "/media/menu/c645902025804d918e5d1aec61ac58ff.webp"
+            }
+          ]
+        },
+        {
+          "name": "Hot Drinks",
+          "items": [
+            {
+              "id": 14,
+              "name": "Hot Chocolate",
+              "description": "Regular, white, dark, hazelnut, or caramel",
+              "price": "4.50",
+              "photo_url": "/media/menu/1c2d5ed2b1cf4c89b963c63512bf9884.webp"
+            },
+            {
+              "id": 15,
+              "name": "Café Blanc",
+              "description": null,
+              "price": "3.00",
+              "photo_url": "/media/menu/9616c1ce1cf74a8abd2664e42c0c694f.webp"
+            },
+            {
+              "id": 16,
+              "name": "Tea & Herbals",
+              "description": null,
+              "price": "3.00",
+              "photo_url": "/media/menu/d5072a56ff5448a199b808aa20d500d5.webp"
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "items": [
+            {
+              "id": 17,
+              "name": "Water",
+              "description": null,
+              "price": "1.50",
+              "photo_url": "/media/menu/7be00397b76a4ef9b6a20786cb6fe91d.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
