@@ -6,7 +6,10 @@
       "description": "A Lebanese-style 'would you rather' card game for adults, with hilarious, daring questions to ask each other. Great for friends' and family game nights.",
       "min_players": 3,
       "max_players": 16,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -16,7 +19,10 @@
       "description": "A game of chance where a caller draws numbers and players mark their cards. The first to complete a line shouts 'Bingo!' to win. Easy fun for all ages.",
       "min_players": 3,
       "max_players": 20,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -26,7 +32,9 @@
       "description": "A bold fill-in-the-blank party game for adults. Players complete outrageous sentences with their funniest card. Best with a big, easygoing group.",
       "min_players": 3,
       "max_players": 20,
-      "tags": [],
+      "tags": [
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -36,7 +44,10 @@
       "description": "Settle the island of Catan by gathering resources, building roads and towns, and trading with rivals. First to 10 victory points wins this modern classic.",
       "min_players": 3,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Strategy"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -46,7 +57,10 @@
       "description": "The legendary two-player strategy game. Outmaneuver your opponent across 64 squares and checkmate their king. Pure skill, no luck.",
       "min_players": 2,
       "max_players": 2,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Strategy"
+      ],
       "photo_url": "/media/games/bf9756a12ed54e55917f402bdc2f5aeb.webp",
       "rules_url": null
     },
@@ -56,7 +70,11 @@
       "description": "The classic murder-mystery deduction game. Move through the mansion gathering clues to work out who did it, with which weapon, and in which room.",
       "min_players": 3,
       "max_players": 6,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family",
+        "Strategy"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -66,7 +84,10 @@
       "description": "A secret-missions party game where you trick other players into doing things without noticing. First to complete three secret missions wins.",
       "min_players": 2,
       "max_players": 10,
-      "tags": [],
+      "tags": [
+        "Party",
+        "Strategy"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -76,7 +97,10 @@
       "description": "A hilarious high-stakes card game: draw cards but avoid the Exploding Kitten, using Defuse and action cards to survive. Last player standing wins.",
       "min_players": 2,
       "max_players": 5,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -86,7 +110,9 @@
       "description": "A cheeky girls'-night party game with truth-or-dare, never-have-I-ever and rapid-fire prompts. For adults (18+).",
       "min_players": 3,
       "max_players": 20,
-      "tags": [],
+      "tags": [
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -96,7 +122,10 @@
       "description": "A Lebanese charades party game full of local expressions, songs, foods and places. Two teams act out and guess cards against a one-minute timer. Fun from ages 8+.",
       "min_players": 2,
       "max_players": 12,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -106,7 +135,10 @@
       "description": "A team-based marble race board game. Play cards to move your marbles around the wooden board and be first to get them all home.",
       "min_players": 2,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Strategy"
+      ],
       "photo_url": "/media/games/fff37a5994ba47d28b5952404162ff38.webp",
       "rules_url": null
     },
@@ -116,7 +148,10 @@
       "description": "The classic wooden block-stacking tower game. Take turns pulling blocks and restacking them on top without toppling the tower. Best with 2-6 players.",
       "min_players": 1,
       "max_players": 8,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -126,7 +161,10 @@
       "description": "A classic race game where each player moves four tokens from start to home. Roll a six to set off; first to bring all pieces home wins.",
       "min_players": 2,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -136,7 +174,9 @@
       "description": "A space card game: race to collect all the planets of the solar system. Grab planets, play action cards, and dodge the Black Hole unless you hold the Key. Educational fun for all ages.",
       "min_players": 2,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Family"
+      ],
       "photo_url": "/media/games/fddf85d3033549a49e37ca6f4d587896.webp",
       "rules_url": null
     },
@@ -146,7 +186,11 @@
       "description": "A faster twist on Monopoly: buy famous brands instead of streets, stack billboards on your tower, and be first to fill it to the top to win.",
       "min_players": 2,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family",
+        "Strategy"
+      ],
       "photo_url": "/media/games/57c7d37c06ec48c59afafd8b594edb1a.webp",
       "rules_url": null
     },
@@ -156,7 +200,9 @@
       "description": "An adults' offline text-message party game where players compete to play the funniest reply to an awkward inbox message, judged each round.",
       "min_players": 3,
       "max_players": 20,
-      "tags": [],
+      "tags": [
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -166,7 +212,10 @@
       "description": "A fast, fun reflex game for all ages: slip the right elastic bands onto the right fingers to match the card, then slap the bell first to win.",
       "min_players": 2,
       "max_players": 6,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Party"
+      ],
       "photo_url": "/media/games/e7687b7dbc8e43618e5f0b842ae86b29.webp",
       "rules_url": null
     },
@@ -176,7 +225,10 @@
       "description": "The classic crossword word game. Draw lettered tiles and build interlocking words on the board to score points. A timeless pick for word lovers.",
       "min_players": 2,
       "max_players": 4,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": "/media/games/8d16e7048c4e494d8872d4d86cd056a5.webp",
       "rules_url": null
     },
@@ -186,7 +238,10 @@
       "description": "A social deduction game for adults set in 1930s Germany. Hidden liberals and fascists bluff and debate as the liberals race to uncover the secret Hitler in time.",
       "min_players": 5,
       "max_players": 10,
-      "tags": [],
+      "tags": [
+        "Party",
+        "Strategy"
+      ],
       "photo_url": "/media/games/cb52c1f7f2914f239ec32f9490821722.webp",
       "rules_url": null
     },
@@ -196,7 +251,10 @@
       "description": "A classic race game for all ages: roll the die to climb ladders and slide down snakes. First to reach the final square wins - all luck, all fun.",
       "min_players": 2,
       "max_players": 6,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -206,7 +264,10 @@
       "description": "The timeless two-player pen-and-paper game: take turns marking X and O on a 3x3 grid, racing to line up three in a row.",
       "min_players": 2,
       "max_players": 2,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -216,7 +277,10 @@
       "description": "A fast-paced family card game: match colors or numbers, play action cards, and race to empty your hand. Don't forget to shout 'Uno!' on your last card.",
       "min_players": 2,
       "max_players": 10,
-      "tags": [],
+      "tags": [
+        "Classic",
+        "Family"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -226,7 +290,9 @@
       "description": "An adults-only party card game where players combine a caption card with a photo card to make the funniest meme, and a rotating judge picks the winner each round.",
       "min_players": 3,
       "max_players": 20,
-      "tags": [],
+      "tags": [
+        "Party"
+      ],
       "photo_url": "/media/games/d3c0cd30616940f7a5bb60a138ea9b81.webp",
       "rules_url": null
     },
@@ -236,7 +302,9 @@
       "description": "A fast team party game: describe words against the clock without using filler words like 'umm' or 'err', or the other team rings the bell. Ages 10+.",
       "min_players": 4,
       "max_players": 10,
-      "tags": [],
+      "tags": [
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     },
@@ -246,7 +314,10 @@
       "description": "A Lebanese party card game where each round a judge reads a funny prompt and the group decides which friend it best fits. For adults and older teens.",
       "min_players": 3,
       "max_players": 12,
-      "tags": [],
+      "tags": [
+        "Family",
+        "Party"
+      ],
       "photo_url": null,
       "rules_url": null
     }
