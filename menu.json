@@ -17,7 +17,7 @@
             },
             {
               "id": 7,
-              "name": "Salad",
+              "name": "Caesar Salad",
               "description": null,
               "price": "8.00",
               "photo_url": "/media/menu/053c9677fcd8408786d21465ae6e4243.webp"
@@ -27,6 +27,13 @@
         {
           "name": "Sweet",
           "items": [
+            {
+              "id": 19,
+              "name": "Ice Cream",
+              "description": null,
+              "price": "3.00",
+              "photo_url": null
+            },
             {
               "id": 1,
               "name": "Tiramisu",
@@ -74,11 +81,11 @@
           "name": "Cold Drinks",
           "items": [
             {
-              "id": 8,
-              "name": "Milkshakes",
-              "description": "Chocolate, vanilla, or strawberry",
-              "price": "5.00",
-              "photo_url": "/media/menu/4f16a8378ec84937b881fedf6e7764cc.webp"
+              "id": 18,
+              "name": "Soft Drinks",
+              "description": null,
+              "price": "1.00",
+              "photo_url": null
             },
             {
               "id": 9,
@@ -93,6 +100,13 @@
               "description": "Freshly squeezed",
               "price": "3.50",
               "photo_url": "/media/menu/b972e4ed32b146b8b11053d7146dab64.webp"
+            },
+            {
+              "id": 8,
+              "name": "Milkshakes",
+              "description": "Chocolate, vanilla, or strawberry",
+              "price": "5.00",
+              "photo_url": "/media/menu/4f16a8378ec84937b881fedf6e7764cc.webp"
             }
           ]
         },
