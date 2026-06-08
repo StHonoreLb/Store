@@ -11,7 +11,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 22,
@@ -24,7 +25,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 10,
@@ -36,7 +38,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 9,
@@ -49,7 +52,8 @@
         "Strategy"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 8,
@@ -61,8 +65,9 @@
         "Classic",
         "Strategy"
       ],
-      "photo_url": "/media/games/bf9756a12ed54e55917f402bdc2f5aeb.webp",
-      "rules_url": null
+      "photo_url": "/media/games/chess.webp?v=bf9756a1",
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 13,
@@ -76,7 +81,8 @@
         "Strategy"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 25,
@@ -89,7 +95,8 @@
         "Strategy"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 14,
@@ -102,7 +109,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 15,
@@ -114,7 +122,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 17,
@@ -127,7 +136,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 2,
@@ -139,8 +149,9 @@
         "Family",
         "Strategy"
       ],
-      "photo_url": "/media/games/fff37a5994ba47d28b5952404162ff38.webp",
-      "rules_url": "/media/games/db0a793f4328417c886e260ac16b3bd2.pdf"
+      "photo_url": "/media/games/jackaroo.webp?v=fff37a59",
+      "rules_url": "/media/games/jackaroo.pdf?v=db0a793f",
+      "video_id": null
     },
     {
       "id": 19,
@@ -153,7 +164,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 23,
@@ -166,7 +178,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 6,
@@ -177,8 +190,9 @@
       "tags": [
         "Family"
       ],
-      "photo_url": "/media/games/fddf85d3033549a49e37ca6f4d587896.webp",
-      "rules_url": null
+      "photo_url": "/media/games/milkey-way.webp?v=fddf85d3",
+      "rules_url": null,
+      "video_id": "Z1LXrsbBWVE"
     },
     {
       "id": 5,
@@ -191,8 +205,9 @@
         "Family",
         "Strategy"
       ],
-      "photo_url": "/media/games/57c7d37c06ec48c59afafd8b594edb1a.webp",
-      "rules_url": null
+      "photo_url": "/media/games/monopoly-empire.webp?v=57c7d37c",
+      "rules_url": "/media/games/monopoly-empire.pdf?v=092633e3",
+      "video_id": null
     },
     {
       "id": 16,
@@ -204,20 +219,22 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 3,
       "name": "Ring a Ding",
-      "description": "A fast, fun reflex game for all ages: slip the right elastic bands onto the right fingers to match the card, then slap the bell first to win.",
+      "description": "A big fruit salad with bananas, strawberries, limes and plums, this is Ring A Ding!\n\nSpeed and a good eye are the trumps here. In turn, each player reveals a card. As soon as there are exactly five fruits of each sort together on all open cards, the player who rings first wins all discard stacks. Whoever has the most cards at the end, is the winner.\n\nRing A Ding is just great fun for young and old, relies on responsiveness and speed while training a quick eye.",
       "min_players": 2,
       "max_players": 6,
       "tags": [
         "Family",
         "Party"
       ],
-      "photo_url": "/media/games/e7687b7dbc8e43618e5f0b842ae86b29.webp",
-      "rules_url": null
+      "photo_url": "/media/games/ring-a-ding.webp?v=e7687b7d",
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 7,
@@ -229,8 +246,9 @@
         "Classic",
         "Family"
       ],
-      "photo_url": "/media/games/8d16e7048c4e494d8872d4d86cd056a5.webp",
-      "rules_url": null
+      "photo_url": "/media/games/scrabble.webp?v=8d16e704",
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 4,
@@ -242,8 +260,9 @@
         "Party",
         "Strategy"
       ],
-      "photo_url": "/media/games/cb52c1f7f2914f239ec32f9490821722.webp",
-      "rules_url": null
+      "photo_url": "/media/games/secret-hitler.webp?v=cb52c1f7",
+      "rules_url": "/media/games/secret-hitler.pdf?v=ca394a5d",
+      "video_id": null
     },
     {
       "id": 21,
@@ -256,7 +275,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 20,
@@ -269,7 +289,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 11,
@@ -282,7 +303,8 @@
         "Family"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 1,
@@ -293,8 +315,9 @@
       "tags": [
         "Party"
       ],
-      "photo_url": "/media/games/d3c0cd30616940f7a5bb60a138ea9b81.webp",
-      "rules_url": "/media/games/d1846b1634fe46adacbd541aae9ef1b0.pdf"
+      "photo_url": "/media/games/what-do-you-meme.webp?v=d3c0cd30",
+      "rules_url": "/media/games/what-do-you-meme.pdf?v=d1846b16",
+      "video_id": null
     },
     {
       "id": 24,
@@ -306,7 +329,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     },
     {
       "id": 12,
@@ -319,7 +343,8 @@
         "Party"
       ],
       "photo_url": null,
-      "rules_url": null
+      "rules_url": null,
+      "video_id": null
     }
   ]
 }

@@ -13,14 +13,14 @@
               "name": "Croque Monsieur",
               "description": "Ham & melted cheese on toasted bread",
               "price": "7.00",
-              "photo_url": "/media/menu/6e4ea8e0d4144e2cbde8d458892c8c3e.webp"
+              "photo_url": "/media/menu/croque-monsieur.webp?v=6e4ea8e0"
             },
             {
               "id": 7,
               "name": "Caesar Salad",
               "description": null,
               "price": "8.00",
-              "photo_url": "/media/menu/053c9677fcd8408786d21465ae6e4243.webp"
+              "photo_url": "/media/menu/caesar-salad.webp?v=053c9677"
             }
           ]
         },
@@ -39,35 +39,35 @@
               "name": "Tiramisu",
               "description": "Our special recipe",
               "price": "5.00",
-              "photo_url": "/media/menu/64fa435dc6a94aedafd4b6d04a759c15.webp"
+              "photo_url": "/media/menu/tiramisu.webp?v=64fa435d"
             },
             {
               "id": 2,
               "name": "Lazy Cake",
               "description": null,
               "price": "3.50",
-              "photo_url": "/media/menu/20ae8bdb386c426388b529ef1b67a4ee.webp"
+              "photo_url": "/media/menu/lazy-cake.webp?v=20ae8bdb"
             },
             {
               "id": 3,
               "name": "Brownie",
               "description": null,
               "price": "4.00",
-              "photo_url": "/media/menu/12b20fbf271b4fc1af63f010eba443ed.webp"
+              "photo_url": "/media/menu/brownie.webp?v=12b20fbf"
             },
             {
               "id": 4,
               "name": "Cookie",
               "description": "Warm chocolate-chip cookie",
               "price": "2.50",
-              "photo_url": "/media/menu/d0524dd716d948328c516af2305ee955.webp"
+              "photo_url": "/media/menu/cookie.webp?v=d0524dd7"
             },
             {
               "id": 5,
               "name": "Cake",
               "description": "Slice of the day",
               "price": "4.50",
-              "photo_url": "/media/menu/2a9f5f593e7a4aa39c122ec9afbcd922.webp"
+              "photo_url": "/media/menu/cake.webp?v=2a9f5f59"
             }
           ]
         }
@@ -92,21 +92,21 @@
               "name": "Orange Juice",
               "description": "Freshly squeezed",
               "price": "4.00",
-              "photo_url": "/media/menu/f0597f3ded674c868f08662f46959ef5.webp"
+              "photo_url": "/media/menu/orange-juice.webp?v=f0597f3d"
             },
             {
               "id": 10,
               "name": "Lemonade",
               "description": "Freshly squeezed",
               "price": "3.50",
-              "photo_url": "/media/menu/b972e4ed32b146b8b11053d7146dab64.webp"
+              "photo_url": "/media/menu/lemonade.webp?v=b972e4ed"
             },
             {
               "id": 8,
               "name": "Milkshakes",
               "description": "Chocolate, vanilla, or strawberry",
               "price": "5.00",
-              "photo_url": "/media/menu/4f16a8378ec84937b881fedf6e7764cc.webp"
+              "photo_url": "/media/menu/milkshakes.webp?v=4f16a837"
             }
           ]
         },
@@ -118,21 +118,21 @@
               "name": "Hot Chocolate",
               "description": "Regular, white, dark, hazelnut, or caramel",
               "price": "4.50",
-              "photo_url": "/media/menu/1c2d5ed2b1cf4c89b963c63512bf9884.webp"
+              "photo_url": "/media/menu/hot-chocolate.webp?v=1c2d5ed2"
             },
             {
               "id": 15,
               "name": "Café Blanc",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/9616c1ce1cf74a8abd2664e42c0c694f.webp"
+              "photo_url": "/media/menu/cafe-blanc.webp?v=9616c1ce"
             },
             {
               "id": 16,
               "name": "Tea & Herbals",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/d5072a56ff5448a199b808aa20d500d5.webp"
+              "photo_url": "/media/menu/tea-herbals.webp?v=d5072a56"
             }
           ]
         },
@@ -144,21 +144,21 @@
               "name": "American Coffee",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/63a4a6bf0f7e4769ae625afe067dbdfc.webp"
+              "photo_url": "/media/menu/american-coffee.webp?v=63a4a6bf"
             },
             {
               "id": 12,
               "name": "Espresso",
               "description": "Single or double shot",
               "price": "2.50",
-              "photo_url": "/media/menu/1a6a0285d8424612aa64d037dc9586aa.webp"
+              "photo_url": "/media/menu/espresso.webp?v=1a6a0285"
             },
             {
               "id": 13,
               "name": "Cappuccino",
               "description": null,
               "price": "4.00",
-              "photo_url": "/media/menu/c645902025804d918e5d1aec61ac58ff.webp"
+              "photo_url": "/media/menu/cappuccino.webp?v=c6459020"
             }
           ]
         },
@@ -170,7 +170,7 @@
               "name": "Water",
               "description": null,
               "price": "1.50",
-              "photo_url": "/media/menu/7be00397b76a4ef9b6a20786cb6fe91d.webp"
+              "photo_url": "/media/menu/water.webp?v=7be00397"
             }
           ]
         }
