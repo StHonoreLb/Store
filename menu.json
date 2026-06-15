@@ -13,7 +13,7 @@
               "name": "Croque Monsieur",
               "description": "Ham & melted cheese on toasted bread",
               "price": "7.00",
-              "photo_url": "/media/menu/croque-monsieur.webp?v=6e4ea8e0"
+              "photo_url": "/media/menu/croque-monsieur.webp?v=5c0cecf8"
             },
             {
               "id": 7,
@@ -39,35 +39,35 @@
               "name": "Tiramisu",
               "description": "Our special recipe",
               "price": "5.00",
-              "photo_url": "/media/menu/tiramisu.webp?v=64fa435d"
+              "photo_url": "/media/menu/tiramisu.webp?v=63b4356c"
             },
             {
               "id": 2,
               "name": "Lazy Cake",
               "description": null,
               "price": "3.50",
-              "photo_url": "/media/menu/lazy-cake.webp?v=20ae8bdb"
+              "photo_url": "/media/menu/lazy-cake.webp?v=6293f833"
             },
             {
               "id": 3,
               "name": "Brownie",
               "description": null,
               "price": "4.00",
-              "photo_url": "/media/menu/brownie.webp?v=12b20fbf"
+              "photo_url": "/media/menu/brownie.webp?v=505da7e2"
             },
             {
               "id": 4,
               "name": "Cookie",
               "description": "Warm chocolate-chip cookie",
               "price": "2.50",
-              "photo_url": "/media/menu/cookie.webp?v=d0524dd7"
+              "photo_url": "/media/menu/cookie.webp?v=ea544b57"
             },
             {
               "id": 5,
               "name": "Cake",
               "description": "Slice of the day",
               "price": "4.50",
-              "photo_url": "/media/menu/cake.webp?v=2a9f5f59"
+              "photo_url": "/media/menu/cake.webp?v=61d76ea8"
             }
           ]
         }
@@ -99,14 +99,14 @@
               "name": "Lemonade",
               "description": "Freshly squeezed",
               "price": "3.50",
-              "photo_url": "/media/menu/lemonade.webp?v=b972e4ed"
+              "photo_url": "/media/menu/lemonade.webp?v=82d7cc55"
             },
             {
               "id": 8,
               "name": "Milkshakes",
               "description": "Chocolate, vanilla, or strawberry",
               "price": "5.00",
-              "photo_url": "/media/menu/milkshakes.webp?v=4f16a837"
+              "photo_url": "/media/menu/milkshakes.webp?v=17ab9533"
             }
           ]
         },
@@ -118,21 +118,21 @@
               "name": "Hot Chocolate",
               "description": "Regular, white, dark, hazelnut, or caramel",
               "price": "4.50",
-              "photo_url": "/media/menu/hot-chocolate.webp?v=1c2d5ed2"
+              "photo_url": "/media/menu/hot-chocolate.webp?v=6bcdfd2d"
             },
             {
               "id": 15,
               "name": "Café Blanc",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/cafe-blanc.webp?v=9616c1ce"
+              "photo_url": "/media/menu/cafe-blanc.webp?v=bbfb0885"
             },
             {
               "id": 16,
               "name": "Tea & Herbals",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/tea-herbals.webp?v=d5072a56"
+              "photo_url": "/media/menu/tea-herbals.webp?v=03674632"
             }
           ]
         },
@@ -144,21 +144,21 @@
               "name": "American Coffee",
               "description": null,
               "price": "3.00",
-              "photo_url": "/media/menu/american-coffee.webp?v=63a4a6bf"
+              "photo_url": "/media/menu/american-coffee.webp?v=3458be45"
             },
             {
               "id": 12,
               "name": "Espresso",
               "description": "Single or double shot",
               "price": "2.50",
-              "photo_url": "/media/menu/espresso.webp?v=1a6a0285"
+              "photo_url": "/media/menu/espresso.webp?v=249fe82b"
             },
             {
               "id": 13,
               "name": "Cappuccino",
               "description": null,
               "price": "4.00",
-              "photo_url": "/media/menu/cappuccino.webp?v=c6459020"
+              "photo_url": "/media/menu/cappuccino.webp?v=79c75df1"
             }
           ]
         },
