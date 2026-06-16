@@ -65,7 +65,7 @@
         "Classic",
         "Strategy"
       ],
-      "photo_url": "/media/games/chess.webp?v=3e3b6051-256-80",
+      "photo_url": "/media/games/chess.webp?v=3e3b6051-200-80",
       "rules_url": "/media/games/chess.pdf?v=09a10417",
       "video_id": null
     },
@@ -149,7 +149,7 @@
         "Family",
         "Strategy"
       ],
-      "photo_url": "/media/games/jackaroo.webp?v=9880fe6f-256-80",
+      "photo_url": "/media/games/jackaroo.webp?v=9880fe6f-200-80",
       "rules_url": "/media/games/jackaroo.pdf?v=db0a793f",
       "video_id": null
     },
@@ -190,7 +190,7 @@
       "tags": [
         "Family"
       ],
-      "photo_url": "/media/games/milkey-way.webp?v=e37829fe-256-80",
+      "photo_url": "/media/games/milkey-way.webp?v=e37829fe-200-80",
       "rules_url": "/media/games/milkey-way.pdf?v=164ae158",
       "video_id": "Z1LXrsbBWVE"
     },
@@ -205,7 +205,7 @@
         "Family",
         "Strategy"
       ],
-      "photo_url": "/media/games/monopoly-empire.webp?v=f084602c-256-80",
+      "photo_url": "/media/games/monopoly-empire.webp?v=f084602c-200-80",
       "rules_url": "/media/games/monopoly-empire.pdf?v=092633e3",
       "video_id": null
     },
@@ -232,7 +232,7 @@
         "Family",
         "Party"
       ],
-      "photo_url": "/media/games/ring-a-ding.webp?v=a2e4ed46-256-80",
+      "photo_url": "/media/games/ring-a-ding.webp?v=a2e4ed46-200-80",
       "rules_url": "/media/games/ring-a-ding.pdf?v=e9c2b396",
       "video_id": "2UI1DzoNWKo"
     },
@@ -246,7 +246,7 @@
         "Classic",
         "Family"
       ],
-      "photo_url": "/media/games/scrabble.webp?v=d3684e24-256-80",
+      "photo_url": "/media/games/scrabble.webp?v=d3684e24-200-80",
       "rules_url": "/media/games/scrabble.pdf?v=3fd3661e",
       "video_id": null
     },
@@ -260,7 +260,7 @@
         "Party",
         "Strategy"
       ],
-      "photo_url": "/media/games/secret-hitler.webp?v=9b99d545-256-80",
+      "photo_url": "/media/games/secret-hitler.webp?v=9b99d545-200-80",
       "rules_url": "/media/games/secret-hitler.pdf?v=ca394a5d",
       "video_id": null
     },
@@ -315,7 +315,7 @@
       "tags": [
         "Party"
       ],
-      "photo_url": "/media/games/what-do-you-meme.webp?v=3793d09d-256-80",
+      "photo_url": "/media/games/what-do-you-meme.webp?v=3793d09d-200-80",
       "rules_url": "/media/games/what-do-you-meme.pdf?v=d1846b16",
       "video_id": null
     },
